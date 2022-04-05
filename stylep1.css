@@ -1,0 +1,28 @@
+body{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.Estrenos{
+    margin-top: 50px;
+}
+
+
+.slide{
+    margin-top: 100px;
+    padding-left: 450px;
+    padding-right: 450px;
+    margin-bottom: 100px;
+}
+
+.slide img{
+    height:75vh;
+}
+
+.carousel-control-prev{
+    margin-left: 380px;
+}
+
+.carousel-control-next{
+    margin-right: 380px;
+}
